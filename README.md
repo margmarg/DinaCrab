@@ -1,8 +1,6 @@
 # DinaCrab: Shy Crabs and Humans built on Microbits
 
-## Margaret Minsky & Oliver Steele
-
-## July 2018
+## Margaret Minsky & Oliver Steele			July 2018
 
 
 
@@ -12,11 +10,11 @@ Project realization at Dinacon:
 
 When humans are near, making noise or stomping on the ground or rippling the intertidal waters, our crab retracts swiftly into its shell and only a little bit of claw can be seen:
 
-<img src="Images/IMG_0224ShyCrabCrop.jpg" width="600">
+<img src="Images/IMG_0224ShyCrabCrop.jpg" width="500">
 
 When the humans back away, and stay quiet and still, our crab comes out and waves its claws about, testing that it has a peaceful environment again, and then gets on with its business of scrabbling about looking for food or patrolling its space:
 
-<img src="Images/IMG_0231ActiveCrabCrop.jpg" width="600">
+<img src="Images/IMG_0231ActiveCrabCrop.jpg" width="500">
 
 
 
@@ -24,7 +22,7 @@ Who is our crab?
 
 We have been taken with the hermit crabs of Koh Lon, their big personalities (from an anthropomorphic perspective) and varied looks and behaviours (from an ethological/naturalist perspective). Throughout their lives they move to ever larger colorful shells, from compact round snail houses to pointy or gracefully ovoid ones. They come out to the beach in diverse-looking groups because of their differences in size, shell type, and claw colors. If you get close, they snap into their shells, a little patience and distance and they are eager to get on with their business while we are watching.
 
-<img src="Images/cute-hermit-crab-walking-around-sandy-beach-46818725 placeholder.jpg" width="200"><img src="Images/fiddler crab.jpg" width="200">
+<img src="Images/cute-hermit-crab-walking-around-sandy-beach-46818725 placeholder.jpg" width="200"><img src="Images/fiddler crab copy.jpg" width="200">
 
 Another crab, the fiddler crab, was one of the first dramatic animals we met. On our first evening we walked on a huge intertidal expanse exposed by a full moon tide, and the bright orange of swarms of fiddler crabs were dramatic. But as soon as one gets close, one's footfalls, water disturbances, or shadows alert the fiddler crabs who all pop into their holes in the coral or sand. As they disappear one sees their bright orange claws, and then nothing. Only quite a bit of distance or perfect stillness from the humans gives them a safe time to come back out.
 
@@ -36,7 +34,7 @@ Using the packet ranging for interactivity between creatures was inspired by a l
 
 Creating the animation of the crab claws, in my happy place near the sewing/textile/yarn corner. Microbit universe in an egg crate. 
 
-<img src="Images/working on animation close up.jpg" width="600">
+<img src="Images/working on animation close up copy.jpg" width="600">
 
 
 
@@ -51,6 +49,15 @@ This is most of the blocks code for the main interactivity. It supports as many 
 
 
 Any questions contact me!
+
+## Code Installation
+
+HEX file for crab-human interaction can be flashed directly to microbits is:
+microbit-Hermit-Crab-Proximity.hex
+You need at least two microbits for the program to do anything.
+Press button A on microbit to be a human and B to be a crab.
+
+You can also (1) create a new project on [MakeCode](https://makecode.microbit.org/), (2) click `{} JavaScript` at the top of the page, (3) paste the code from [`microbit-Hermit-Crab-Proximity.ts`](microbit-Hermit-Crab-Proximity.ts) into the edit pane on the right, (4) and click “Download” to download a `*.hex` file to copy to the micro:bit.
 
 
 
