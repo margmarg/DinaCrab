@@ -26,8 +26,6 @@ We have been taken with the hermit crabs of Koh Lon, their big personalities (fr
 
 Another crab, the fiddler crab, was one of the first dramatic animals we met. On our first evening we walked on a huge intertidal expanse exposed by a full moon tide, and the bright orange of swarms of fiddler crabs were dramatic. But as soon as one gets close, one's footfalls, water disturbances, or shadows alert the fiddler crabs who all pop into their holes in the coral or sand. As they disappear one sees their bright orange claws, and then nothing. Only quite a bit of distance or perfect stillness from the humans gives them a safe time to come back out.
 
-*Placeholder: put edited video here from DaniMark 009 or the Andy's*
-
 We simplified my (Margaret's) orginal wearables Dinacon project concept to collaborate on creating "humans" and "crabs" animated on Microbit boards, which felicitously have cute orange-red displays on board suitable for crab claws! We installed one of our crabs in a mighty shell, and let Dinasaurs carry  human boards and other crab boards around with them.  Using the Microbit's packet radio capability as a quick, though not very accurate or precise, ranging technology, crabs can tell whether there is any human nearby. As soon as any human gets in range, it snaps into its shell, leaving just a claw visible (like a hermit crab's visible armored claw blocking it's shell opening). As soon as all humans are far enough away, the shy crab comes back out waving its claws about.
 
 Using the packet ranging for interactivity between creatures was inspired by a lovely and extensive dance performance interaction project by Emily Daub, her student capstone project at the ATLAS Center at CU-Boulder. We are grateful for her inspiration, and for help from Emily and  her student colleague Annie Kelly. 
@@ -40,7 +38,7 @@ Creating the animation of the crab claws, in my happy place near the sewing/text
 
 Oliver and I collaborated on programming for the crab/human existence and interactions. We used the microbit/microsoft  blocks-language interface to its Typescript language (Javascript). Oliver built up a test suite for packet radio ranging in textual Typescript as well. I built several wearable versions of the boards using various batteries and sewn wearable holders, then ended up simplifying to hand-carrying the lightweight boards with simple enclosed battery pak. I also decided on an indoor installation space for our largest crab. For the humans, it feels like walking on the beach while carrying a rock or shell one might have picked up. For the crabs, is that like carrying a shell? No idea...
 
-
+Here's video of DinaCrab: [Dinacrab in-progress 2 mins](https://www.instagram.com/p/BkpWilqHdam/) and [Dinacrab with human 23 sec](https://www.dropbox.com/s/h4eyf9kcmy5u15h/SmallVersionofMovie009.mov?dl=0)
 
 This is most of the blocks code for the main interactivity. It supports as many "crab" and "human" boards as you want, we had four at Dinacon. Usually configured as one crab, three humans, sometimes two crabs two humans.
 
@@ -58,6 +56,9 @@ You need at least two microbits for the program to do anything.
 Press button A on microbit to be a human and B to be a crab.
 
 You can also (1) create a new project on [MakeCode](https://makecode.microbit.org/), (2) click `{} JavaScript` at the top of the page, (3) paste the code from [`microbit-Hermit-Crab-Proximity.ts`](microbit-Hermit-Crab-Proximity.ts) into the edit pane on the right, (4) and click “Download” to download a `*.hex` file to copy to the micro:bit.
+
+You can also find Oliver's microbit RSS metering code here:
+https://github.com/osteele/microbit-signal-meter
 
 
 
