@@ -38,7 +38,7 @@ Creating the animation of the crab claws, in my happy place near the sewing/text
 
 Oliver and I collaborated on programming for the crab/human existence and interactions. We used the microbit/microsoft  blocks-language interface to its Typescript language (Javascript). Oliver built up a test suite for packet radio ranging in textual Typescript as well. I built several wearable versions of the boards using various batteries and sewn wearable holders, then ended up simplifying to hand-carrying the lightweight boards with simple enclosed battery pak. I also decided on an indoor installation space for our largest crab. For the humans, it feels like walking on the beach while carrying a rock or shell one might have picked up. For the crabs, is that like carrying a shell? No idea...
 
-Here's video of DinaCrab: [Dinacrab in-progress 2 mins](https://www.instagram.com/p/BkpWilqHdam/) and [Dinacrab with human 23 sec](https://www.dropbox.com/s/h4eyf9kcmy5u15h/SmallVersionofMovie009.mov?dl=0)
+Here's video of DinaCrab: [Dinacrab with human 23 sec](https://www.dropbox.com/s/h4eyf9kcmy5u15h/SmallVersionofMovie009.mov?dl=0) and [Dinacrab in-progress 2 mins](https://www.instagram.com/p/BkpWilqHdam/)
 
 This is most of the blocks code for the main interactivity. It supports as many "crab" and "human" boards as you want, we had four at Dinacon. Usually configured as one crab, three humans, sometimes two crabs two humans.
 
